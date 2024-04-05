@@ -1,5 +1,8 @@
 # K-Means_Clustering_Algorithm_Python
 
+### To demonstrate the K-Means i took a data-set of mall Customers and then Pre-Processed the data and Performed K-Means Clustering algorithm and then updated the Output in a new CSV file.
+
+## Below i have mentioned Explanation for K-Means Clustering Algorithm
 
 ## Overview
 
